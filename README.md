@@ -3,7 +3,9 @@
 District of Augsburg, Germany
 
 #### About
-💻 Internet application engineering, 🏴‍☠️ development and 👔 management.
+💻 Internet application engineering,<br>
+🏴‍☠️ development and <br>
+👔 management.
 
 #### Technologies
 Javascript (Frontendand Backend), HTML, CSS, Node, CouchDB
