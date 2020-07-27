@@ -17,3 +17,10 @@ follow me on 🐦 [Twitter](https://twitter.com/kulturpessimist) or<br>
 if you prefer 🐘 [Mastodon](https://mastodon.technology/web/accounts/108051) or<br>
 connect me on 💼 [LinkedIn](https://www.linkedin.com/in/alexanderschedler/) or<br>
 👨🏻‍💼 [Xing](https://www.xing.com/profile/Alex_Schedler/cv) if you are german 
+
+#### Github
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulturpessimist)](https://github-readme-stats.vercel.app/api/top-langs/?username=kulturpessimist) [![Kulturpessimists github stats](https://github-readme-stats.vercel.app/api?username=kulturpessimist)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+
